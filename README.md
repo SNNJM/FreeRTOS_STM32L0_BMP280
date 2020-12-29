@@ -6,8 +6,11 @@ This FreeRTOS programs uses C programming language that enables the STM32 mcu to
 #Requirements
 
   #1 STM32L0
+  
   #2 BMP280
+  
   #3 STM32CUBEMX
+  
   #4 Keil/Eclipse  (I'm using Keil)
 
 
